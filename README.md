@@ -1,6 +1,6 @@
 # University Site Parser
 
-![License](https://img.shields.io/github/license/moonimori/MIPT-Parser?style=for-the-badge&colorA=90CAF9&colorB=1976D2)
+![License](https://img.shields.io/github/license/wishik/MIPT-Parser?style=for-the-badge&colorA=90CAF9&colorB=1976D2)
 
 Python parser that was used to collect structured data from a university website
 
