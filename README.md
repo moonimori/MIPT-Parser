@@ -47,5 +47,3 @@ python main.py
 
 The parser was developed as a small paid project for a friend and was fully functional at the time of development.  
 It successfully collected several thousand records
-
-This project is licensed under the [Apache 2.0 License](LICENSE).
