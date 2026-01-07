@@ -1,5 +1,8 @@
 # University Site Parser
 
+![GitHub Repo stars](https://img.shields.io/github/stars/moonimori/MIPT-Parser)
+![GitHub license](https://img.shields.io/github/license/moonimori/MIPT-Parser)
+
 Python parser that was used to collect structured data from a university website
 
 ## Status
@@ -44,3 +47,5 @@ python main.py
 
 The parser was developed as a small paid project for a friend and was fully functional at the time of development.  
 It successfully collected several thousand records
+
+This project is licensed under the [Apache 2.0 License](LICENSE).
